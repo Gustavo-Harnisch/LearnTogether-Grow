@@ -13,7 +13,7 @@ This repository is created specifically for those who wants to contribute, learn
 The aim of this repo is to provide a safe space where anyone can contribute code and learn in the process  togather. 
 
 ### 🚀 How It Works
-1. **Pick an Issue** - Check the `Issues` tab for problems to solve
+1. **Pick an Issue** - Check the `Issues` tab for problems to solve or you can also add your program in given teck stack
 2. **Fork & Code** - Write your solution in given tech stack
 3. **Pull Request** - Submit your code 
 4. **Get Feedback** - Receive detailed review as soon as possible
