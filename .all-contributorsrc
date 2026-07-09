@@ -1,0 +1,25 @@
+{
+  "projectName": "LearnTogether-Grow",
+  "projectOwner": "TScom-dew",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "atom",
+  "contributors": [
+    {
+      "login": "TScom-dew",
+      "name": "Ashlok Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/228381444?v=4",
+      "profile": "https://www.ashlokkumar.me/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
